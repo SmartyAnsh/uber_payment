@@ -9,7 +9,7 @@ Java 11
 ## App Links
 
 * URL: [http://localhost:9090](http://localhost:9090)
-* Swagger UI - [http://localhost:9090/swagger-ui](http://localhost:8080/swagger-ui)
+* Swagger UI - [http://localhost:9090/swagger-ui/index.html](http://localhost:9090/swagger-ui/index.html)
 
 ## APIs
 * Payment APIs
